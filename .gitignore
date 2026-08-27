@@ -1,10 +1,10 @@
-/data/raw/*
-/data/processed/*
-/data/clean/*
+/data/raw/**
+/data/processed/**
+/data/clean/**
 /research_questions.md
 /project_plan_README.md
 /Readme.md
-/database/*
-/scripts/*
-/sql/*
-/src/*
+/database/**
+/scripts/**
+/sql/**/*
+/src/**/*
