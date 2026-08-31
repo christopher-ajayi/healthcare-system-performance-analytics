@@ -3,6 +3,7 @@
 /project_plan_README.md
 /Readme.md
 /database/*
-/scripts/*
+
 /sql/**/*
 /src/**/*
+/release/**/*
