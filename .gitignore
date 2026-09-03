@@ -3,7 +3,8 @@
 /project_plan_README.md
 /Readme.md
 /database/*
-
+/notebooks/chps_analysis.ipynb
+/notebooks/TEST.ipynb
 /sql/**/*
 /src/**/*
 /release/**/*
