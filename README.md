@@ -24,7 +24,7 @@ The project applies an **economic and quantitative analysis lens** to assess res
 
 ## Selected Findings
 
-* **Aging is accelerating relative to total population.** National average annual growth was **2.87% for 65+**, **3.27% for 80+**, and **3.63% for 85+**.
+* **Ageing is accelerating relative to total population.** National average annual growth was **2.87% for 65+**, **3.27% for 80+**, and **3.63% for 85+**.
 * **Hospital capacity came under broad relative pressure.** Beds per 100,000 declined in **10 provinces** examined from 2009–2022.
 * **Physician growth exceeded population growth in all 10 provinces** with available data.
 * **Real healthcare expenditure generally outpaced population and demographic growth**, but higher resource intensity did not consistently correspond with stronger access or outcomes.
